@@ -19,7 +19,7 @@
 
 **한국데이터산업진흥원** 주최 2023년 **데이터 청년 캠퍼스**에서 대상(1등)을 수상하였습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GGXuIrd-7jE?si=vwD7IwzxJfAP77qy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![https://www.youtube.com/watch?v=GGXuIrd-7jE](https://github.com/Hear-is-Hear-ease/.github/refs/heads/main/assets/screenshots/thumbnail.jpg)](https://www.youtube.com/watch?v=GGXuIrd-7jE)
 
 <br>
 
